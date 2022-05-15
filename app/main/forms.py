@@ -1,12 +1,12 @@
 from flask_wtf import FlaskForm
 from wtforms import StringField,TextAreaField,SubmitField
-from wtforms.validators import Required
+from wtforms.validators import DataRequired
 
 class CommentForm(FlaskForm):
     '''
     Class to create a wtf form for creating a feedback on a post
     '''
-    comment_content =  TextAreaField('Comment', validators=[Required()])
+    comment_content =  TextAreaField('Comment', validators=[DataRequired()])
     submit = SubmitField('Submit')
 
 class PostForm(FlaskForm):
