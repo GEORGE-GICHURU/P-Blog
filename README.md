@@ -28,7 +28,7 @@ As a writer I would like:
 ## Specifications
 | Behavior        | Input           | Outcome  |
 | ------------- |:-------------:| -----:|
-| Register to be a user | Your email : gichurugeorge092@gmail.com <br> Username : gichuru  <br> Password :  | New user is registered |
+| Register to be a user | Your email : gichurugeorge092@gmail.com <br> Username : gichuru  <br> Password : 5678 | New user is registered |
 | User Log in | Your email : jane@doe.com <br> Password : doe1 | Logged in |
 | Display post title | N/A | List of post titles with the writer's name |
 | See an entire post | **Click** on a **post's title** | Directed to a page with the post's title, writer's name and comments on the post |
