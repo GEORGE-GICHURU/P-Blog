@@ -43,7 +43,7 @@ As a writer I would like:
 
 * Click [The C Blog] <br/>
   or <br/>
-* Copy [the C blog] and  Paste the link on your prefered browerser
+* Copy [The C Blog] and  Paste the link on your prefered browerser
 
 This requires internet connection.
 
