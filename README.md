@@ -41,7 +41,7 @@ As a writer I would like:
 
 ## Setup/Installation Requirements
 
-* Click [the C blog](https://python-personal-blog.herokuapp.com/) <br/>
+* Click [the C blog] <br/>
   or <br/>
 * Copy [the C blog](https://python-personal-blog.herokuapp.com/) and  Paste the link on your prefered browerser
 
