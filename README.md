@@ -3,7 +3,7 @@
 ## This is a personal blogging website where [I](https://github.com/GEORGE-GICHURU) can create and share my opinions via a blog post and other users can read and comment on posts, 16/5/2022.
 
 
-## By **[George Gichuru](https://github.com/carolwanjohi)**
+## By **[George Gichuru](https://github.com/GEORGE-GICHURU)**
 
 ## Description
 [This] is a web application that allows me, as a writer, to create blog posts to share my opinions. Users, who are readers, can reader my posts and comment on them. They can also subscribe for updates when there is a new blog post.<br>
