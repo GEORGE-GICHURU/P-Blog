@@ -29,7 +29,7 @@ As a writer I would like:
 | Behavior        | Input           | Outcome  |
 | ------------- |:-------------:| -----:|
 | Register to be a user | Your email : gichurugeorge092@gmail.com <br> Username : gichuru  <br> Password : 5678 | New user is registered |
-| User Log in | Your email : jane@doe.com <br> Password : doe1 | Logged in |
+| User Log in | Your email : .com <br> Password : doe1 | Logged in |
 | Display post title | N/A | List of post titles with the writer's name |
 | See an entire post | **Click** on a **post's title** | Directed to a page with the post's title, writer's name and comments on the post |
 | Comment on a post | **Click Comment** | An authenticated user is directed to a page with a form where the user can create and submit a comment on a post |
