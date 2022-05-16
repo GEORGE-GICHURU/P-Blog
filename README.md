@@ -61,6 +61,6 @@ No known bugs
 
 ### License
 
-MIT (c) 2022 **[George Gichuru](https://github.com/carolwanjohi)**
+MIT (c) 2022 **[George Gichuru](https://github.com/GEORGE-GICHURU)**
 
 
