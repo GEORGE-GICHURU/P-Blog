@@ -52,7 +52,7 @@ This requires internet connection.
 No known bugs
 
 ## Technologies Used
-- Python3.6
+- Python3.10.4
 - Flask
 - Bootstrap
 - Postgres Database
@@ -61,6 +61,6 @@ No known bugs
 
 ### License
 
-MIT (c) 2017 **[Carol Wanjohi](https://github.com/carolwanjohi)**
+MIT (c) 2022 **[George Gichuru](https://github.com/carolwanjohi)**
 
 
