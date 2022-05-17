@@ -79,6 +79,10 @@ No known bugs
 - CSS
 - HTML
 
+## Contact
+
+contact me here> <br>[gichurugeorge092@gmail.com]<br>
+
 ### License
 
 MIT (c) 2022 **[George Gichuru](https://github.com/GEORGE-GICHURU)**
