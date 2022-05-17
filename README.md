@@ -47,6 +47,26 @@ As a writer I would like:
 
 This requires internet connection.
 
+## Prerequisites
+
+-python3.10.4
+-pip
+-virtualenv
+
+## Running the Application
+
+- Creating the virtual environment
+
+        $ python3.10.4 -m venv venv
+        $ source venv/bin/activate
+        $ curl https://bootstrap.pypa.io/get-pip.py | python
+
+- Installing Flask and other Modules
+
+        $ python3.10.4 -m pip install Flask
+        $ python3.10.4 -m pip install Flask-Bootstrap
+        $ python3.10.4 -m pip install Flask-Script
+
 ## Known Bugs
 
 No known bugs
